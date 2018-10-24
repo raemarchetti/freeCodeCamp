@@ -10,11 +10,11 @@ Existem muitas ferramentas e recursos on-line que podem ajudá-lo a garantir que
     
     Esta é uma extensão do Google Chrome que adicionará um novo painel da barra lateral Acessibilidade na guia Elementos às ferramentas do desenvolvedor do Google Chrome. Esse novo painel exibirá todas as propriedades relevantes para o aspecto de acessibilidade do elemento que você está inspecionando no momento. Essa extensão também adiciona uma auditoria de acessibilidade que pode ser usada para verificar se a página da Web atual viola qualquer regra de acessibilidade.
     
-2.  **[Machado](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)**
+2.  **[aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)**
     
     Esta extensão do Google Chrome pode encontrar defeitos de acessibilidade em sua página da web.
     
-3.  **[Gerador de paletes de cores seguras](http://colorsafe.co)**
+3.  **[Gerador de paletas de cores seguras](http://colorsafe.co)**
     
     Este site pode ajudá-lo a criar uma paleta de cores baseada nas diretrizes do WCAG para relações de contraste de texto e plano de fundo.
     
@@ -37,6 +37,6 @@ Existem muitas ferramentas e recursos on-line que podem ajudá-lo a garantir que
 
 * * *
 
-#### Mais Reources
+#### Mais Recursos
 
 Você pode encontrar muitas outras ferramentas para web design acessível [nesta lista](http://www.d.umn.edu/itss/training/online/webdesign/tools.html) feita pela Universidade de Minnesota Duluth.
