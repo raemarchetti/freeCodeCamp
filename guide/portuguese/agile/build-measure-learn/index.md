@@ -4,7 +4,7 @@ localeTitle: Construa Medida Aprenda
 ---
 ## Construa Medida Aprenda
 
-O loop Build-Measure-Learn é um método usado para criar o produto certo. Cunhado no livro "Lean Startup", de Eric Reis, o loop permite uma experimentação rápida, com o único propósito de conseguir o ajuste do mercado. Em outras palavras, é um sistema poderoso para validar suposições relativas a um produto que você se propõe a entregar. Quebrando o loop, consiste nas seguintes partes:
+O loop Build-Measure-Learn é um método usado para criar o produto certo. Criado no livro "Lean Startup", de Eric Reis, o loop permite uma experimentação rápida, com o único propósito de conseguir o ajuste do mercado. Em outras palavras, é um sistema poderoso para validar suposições relativas a um produto que você se propõe a entregar. Quebrando o loop, consiste nas seguintes partes:
 
 ![construir-medir-aprender-loop](https://steveblank.files.wordpress.com/2015/05/ideas-build-code-measure.jpg)
 
