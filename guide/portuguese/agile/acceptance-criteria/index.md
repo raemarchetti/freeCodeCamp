@@ -10,7 +10,7 @@ Os Critérios de Aceitação informam à Equipe de Entrega como o código deve s
 
 Mais importante ainda, se a história não atender a cada um dos Critérios de aceitação, o Product Owner não deve aceitar a história no final da iteração.
 
-Os critérios de aceitação podem ser vistos como um instrumento para proteger a equipe de entrega. Quando a equipe de entrega se compromete com um conjunto fixo de histórias no planejamento da Sprint, ele também se compromete com um conjunto fixo de critérios de aceitação. Isso ajuda a evitar o deslizamento do escopo.
+Os critérios de aceitação podem ser vistos como um instrumento para proteger a equipe de entrega. Quando a equipe de entrega se compromete com um conjunto fixo de histórias no planejamento da Sprint, ele também se compromete com um conjunto fixo de critérios de aceitação. Isso ajuda a evitar o não cumprimento do escopo.
 
 Considere a seguinte situação: ao aceitar a história do usuário, o Product Owner sugere adicionar algo que não estava no escopo da história do usuário. Nesse caso, a equipe de entrega está em condições de rejeitar essa solicitação (por menor que seja) e solicitar que o proprietário do produto crie uma nova história de usuário que possa ser resolvida em outro Sprint.
 
